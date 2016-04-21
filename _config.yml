@@ -1,0 +1,28 @@
+name: T-1
+favicon: null
+layout_spectrum: 0.3419563355855644
+typography_spectrum: 0.4914316493086517
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.47891096235252917
+  lightness: 0.6498222590889782
+  saturation: 0.22031196882016957
+  rhythmicContrast: 0.3031018259935081
+purpose: []
